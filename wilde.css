@@ -1,0 +1,26 @@
+.speech{
+    font-family: Times;
+    font-size:19px;
+    color:black;
+    }
+ .stage-direction{
+     font-family: Times;
+     font-size:20px;
+     color:black;
+     background-color: lightgray;
+ }   
+
+ .stage-direction:hover{
+     background-color: blue;
+     color: lime;
+ }
+ .name{
+     font-size: 20px;
+     color: mediumaquamarine;
+ }
+ .LORDGORING{
+     color: green;
+}
+.PHIPPS{
+    color: purple;
+}
